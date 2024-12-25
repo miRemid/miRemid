@@ -5,3 +5,5 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=miRemid&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=miRemid&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
 </picture>
+
+<img style="display: inline" src="./163.svg">
