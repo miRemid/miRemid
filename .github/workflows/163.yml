@@ -13,7 +13,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: zonemeen/netease-recent-actions@v1.0.23
+      - name: netease-recent-actions
+        uses: zonemeen/netease-recent-actions@v1.1.0
         with:
           id: ${{ env.NETEASE_ID }}
           size: 60
