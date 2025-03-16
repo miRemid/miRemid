@@ -18,3 +18,8 @@ jobs:
         with:
           id: ${{ env.NETEASE_ID }}
           size: 60
+          show_percent: '1'
+          column: 2
+          number: 10
+          theme: 'light'
+
